@@ -1,0 +1,15 @@
+======PRINT TOP-K FREQUENT ITEMSETS FROM UNCERTAIN DATABASES=====
+
+Itemset [27] | ExpSup=1647.5000
+Itemset [22] | ExpSup=1635.0000
+Itemset [35] | ExpSup=1631.6700
+Itemset [32] | ExpSup=1620.8600
+Itemset [36] | ExpSup=1618.6900
+
+============= TOP-K FREQUENT FROM UNCERTAIN DATABASES=============
+ Top K = 5
+ Items count from dataset: 75
+ Transactions count from dataset : 3196
+ Maximum memory usage : 1.7898712158203125 mb
+ Total time ~ 397 ms
+===================================================
